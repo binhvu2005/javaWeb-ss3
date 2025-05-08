@@ -3,7 +3,7 @@ plugins {
     id 'war'
 }
 
-group 'com.data'
+group 'com.ss3'
 version '1.0-SNAPSHOT'
 
 repositories {
